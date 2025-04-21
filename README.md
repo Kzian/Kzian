@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kzian
 - 👀 I’m interested in Tech-related fields, specifically cybersecurity
-- 🌱 I’m currently learning DevOps but with a little background in data analysis
-- 💞️ I’m looking to collaborate on anything security. With a cybersecurity background, I am aiming for DevSecOps roles
+- 🌱 I’m currently learning DevOps, but with a little background in data analysis
+- 💞️ I’m looking to collaborate on anything security, including research. With a cybersecurity background, I am aiming for DevSecOps roles
 - 📫 How to reach me linkedin.com/in/cassia-anwar/
 
 <!---
